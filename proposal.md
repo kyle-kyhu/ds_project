@@ -57,11 +57,3 @@ The primary objective of this project is to analyze a dataset of news articles t
 ### Conclusion
 
 This analysis aims to provide a comprehensive understanding of the linguistic and statistical differences between real and fake news articles. The insights gained from this project can be used to inform further research, develop automated fake news detection systems, and enhance our understanding of the propagation of misinformation.
-
-### Next Steps
-
-1. **Model Development**: Use the cleaned dataset to train machine learning models for fake news detection.
-2. **Feature Engineering**: Explore additional text features, such as sentiment analysis and readability scores.
-3. **Evaluation**: Evaluate the performance of the models using appropriate metrics and cross-validation techniques.
-4. **Deployment**: Develop a user-friendly application for real-time fake news detection based on the trained models.
-
